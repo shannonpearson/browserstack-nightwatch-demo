@@ -1,13 +1,13 @@
 # Browserstack Nightwatch Demo
 
-## Get started:
+### Get started:
 
   ```npm install```
 
-## Run tests:
+### Run tests:
 
   ```npm run single```
   
-## Run tests using local testing:
+### Run tests using local testing:
   
    ```node localStart.js```
