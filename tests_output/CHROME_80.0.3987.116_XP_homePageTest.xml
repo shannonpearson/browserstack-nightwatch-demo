@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="homePageTest"
+    errors="0" failures="0" hostname="" id="" package="homePageTest" skipped="0"
+    tests="1" time="5.682" timestamp="">
+  
+    <testcase name="Valid search input with click" classname="homePageTest" time="5.682" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

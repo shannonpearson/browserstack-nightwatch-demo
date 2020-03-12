@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="1">
+
+  <testsuite name="wikipediaHomePageTest"
+    errors="1" failures="1" hostname="" id="" package="wikipediaHomePageTest" skipped="0"
+    tests="1" time="15.41" timestamp="">
+  
+    <testcase name="Valid search input with click" classname="wikipediaHomePageTest" time="15.41" assertions="2">
+
+      <failure message="Testing if the page title equals [0;33m&#39;Node.js - Wikipedia&#39;[0m in 5000ms - expected [0;32m&#34;is &#39;Node.js - Wikipedia&#39;&#34;[0m but got: [0;31m&#34;Search - Wikipedia&#34;[0m [0;90m(5093ms)[0m">    at Object.Valid search input with click (/Users/shannonpearson/Desktop/nightwatch-demo/tests/single/wikipediaHomePageTest.js:9:15)
+    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+
+    
+      <failure message="    at Object.Valid search input with click (/Users/shannonpearson/Desktop/nightwatch-demo/tests/single/wikipediaHomePageTest.js:9:15)">    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+      <error message="Error while running &#34;title&#34; command: Testing if the page title equals [0;33m&#39;Node.js - Wikipedia&#39;[0m in 5000ms - expected [0;32m&#34;is &#39;Node.js - Wikipedia&#39;&#34;[0m but got: [0;31m&#34;Search - Wikipedia&#34;[0m [0;90m(5093ms)[0m" type="error">    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  NoSuchElementError: An error occurred while running .setValue() command on &lt;Element [name=@searchBox]&gt;: undefined; undefined
+   {&#34;state&#34;:&#34;success&#34;,&#34;sessionId&#34;:&#34;38a6e126c5ae8bd60d1e01c173443439994c09ce&#34;,&#34;value&#34;:[],&#34;status&#34;:0}[0m
+[0;90m       at &lt;anonymous&gt;
+       at process._tickCallback (internal/process/next_tick.js:189:7)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

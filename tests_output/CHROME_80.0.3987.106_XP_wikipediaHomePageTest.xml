@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="wikipediaHomePageTest"
+    errors="0" failures="0" hostname="" id="" package="wikipediaHomePageTest" skipped="0"
+    tests="1" time="7.085" timestamp="">
+  
+    <testcase name="Search Input" classname="wikipediaHomePageTest" time="7.085" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  TypeError: callback is not a function
+   - writing an ES6 async test case? - keep in mind that commands return a Promise; 
+   - writing unit tests? - make sure to specify &#34;unit_tests_mode=true&#34; in your config.[0m
+[0;90m   [0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

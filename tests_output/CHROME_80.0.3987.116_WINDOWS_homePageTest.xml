@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="homePageTest"
+    errors="0" failures="0" hostname="" id="" package="homePageTest" skipped="0"
+    tests="3" time="16.00" timestamp="">
+  
+    <testcase name="Valid search input with click" classname="homePageTest" time="6.918" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Valid search input with enter key press" classname="homePageTest" time="3.115" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Invalid search input with click" classname="homePageTest" time="5.972" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
