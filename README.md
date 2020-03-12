@@ -4,10 +4,10 @@
 
   ```npm install```
 
-## To run tests:
+## Run tests:
 
   ```npm run single```
   
-## To run tests using local testing:
+## Run tests using local testing:
   
    ```node localStart.js```
